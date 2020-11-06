@@ -1,0 +1,24 @@
+{
+  "name": "ab2gv",
+  "version": "0.0.0",
+  "description": "Audio behavior graphs to graphviz",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesol/ab2gv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesol/ab2gv/issues"
+  },
+  "homepage": "https://github.com/mikesol/ab2gv#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
